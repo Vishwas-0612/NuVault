@@ -3,7 +3,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=nextdotjs)
 ![Appwrite](https://img.shields.io/badge/Appwrite-Cloud-f02e65?style=for-the-badge&logo=appwrite)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 NuVault is a secure, fast, and intuitive cloud storage platform inspired by Google Drive.
 It allows users to upload, store, organize, preview, and manage files seamlessly — all inside a beautiful, minimal, and high-performance interface.
