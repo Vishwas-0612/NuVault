@@ -62,15 +62,15 @@ Built with **Next.js • Appwrite • TypeScript • Modern UI/UX**
 
 ## 📦 Project Structure
 
-📦 NuVault/
-┣ 📁 app/
-│ ┣ 📁 auth/
-│ ┣ 📁 dashboard/
-│ ┗ 📁 upload/
-┣ 📁 components/
-┣ 📁 lib/
-┣ 📁 styles/
-┣ 📁 utils/
+📦 NuVault
+┣ 📁 app
+│ ┣ 📁 auth
+│ ┣ 📁 dashboard
+│ ┗ 📁 upload
+┣ 📁 components
+┣ 📁 lib
+┣ 📁 styles
+┣ 📁 utils
 ┗ 📄 README.md
 
 
