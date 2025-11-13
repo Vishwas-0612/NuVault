@@ -82,29 +82,18 @@ Built with **Next.js • Appwrite • TypeScript • Modern UI/UX**
 
 ### 1️⃣ Clone the Repository
 
-\<details\>
-\<summary\>📋 Click to Copy\</summary\>
-
 ```bash
 git clone https://github.com/vishwas-0612/NuVault.git
 cd NuVault
 ```
 
-\</details\>
-
 ### 2️⃣ Install Dependencies
-
-\<details\> \<summary\>📋 Click to Copy\</summary\>
 
 ```bash
 npm install
 ```
 
-\</details\>
-
 ### 3️⃣ Create a .env.local File
-
-\<details\> \<summary\>📋 Click to Copy\</summary\>
 
 ```bash
 NEXT_PUBLIC_APPWRITE_ENDPOINT=&lt;your-appwrite-endpoint&gt;
@@ -113,16 +102,11 @@ NEXT_PUBLIC_APPWRITE_BUCKET_ID=&lt;your-bucket-id&gt;
 APPWRITE_API_KEY=&lt;your-appwrite-api-key&gt;
 ```
 
-\</details\>
-
 ### 4️⃣ Run the Development Server
-
-\<details\> \<summary\>📋 Click to Copy\</summary\>
 
 ```bash
 npm run dev
 ```
-\</details\>
 
 ## ⭐ Like the project?
 If you find this useful, consider giving the repo a star ⭐ on GitHub!
